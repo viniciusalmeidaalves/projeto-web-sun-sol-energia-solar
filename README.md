@@ -16,5 +16,5 @@ Tecnologias HTML5, CSS3 e JavaScript
 
 ## 📁 Acesso ao projeto
 
-1. [acessar o código fonte do projeto](https://github.com/viniciusalmeidaalves/projeto-web-sun-sol-energia-solar.git)
+1. [acessar o código fonte do projeto](https://github.com/viniciusalmeidaalves/projeto-web-sun-sol-energia-solar)
 2. [visualizar o projeto na web](https://projeto-web-posto-de-molas-bandeirante.vercel.app/)
